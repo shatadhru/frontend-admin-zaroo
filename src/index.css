@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+/* Urabanist and Cal Sans Font are imported from google fonts  */
+
+*{
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+}
+
